@@ -1,5 +1,5 @@
 # nosql-challenge
-****Module 12
+**Module 12**
 I had issues pushing the json resource folder into the repository due to size. 
 
 
@@ -23,7 +23,7 @@ List the collection(s) in the database to ensure that establishments is there.
 Find and display one document in the establishments collection using find_one and display with pprint.
 Assign the establishments collection to a variable to prepare the collection for use.
 
-****Part 2: Update the Database
+**Part 2: Update the Database**
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
 The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
